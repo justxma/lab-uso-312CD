@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Neata!"
+echo "Aceasta este o modificare"
